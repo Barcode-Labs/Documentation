@@ -1,4 +1,4 @@
-[MAIN MENU](https://github.com/caseyjeremiason/C2/blob/main/README.md)
+[MAIN MENU](/README.md)
 
 [REVIEW THIS REFERENCE](https://docs.vorondesign.com/community/howto/120decibell/z_endstop_configuration.html) add anything of value to this document
 
