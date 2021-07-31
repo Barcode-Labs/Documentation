@@ -1,4 +1,4 @@
-[MAIN MENU](https://github.com/caseyjeremiason/C2/blob/main/README.md)
+[MAIN MENU](/README.md)
 
 Heat Soak the Printer First
 
