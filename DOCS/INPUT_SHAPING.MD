@@ -1,7 +1,7 @@
 [MAIN MENU](/README.md)
 
 
-###TURN OFF DYNAMIC ACCELERATION CONTROL
+### TURN OFF DYNAMIC ACCELERATION CONTROL
 
 Change the setting highlighted in orange to 0.
 
