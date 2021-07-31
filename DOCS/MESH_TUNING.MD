@@ -2,7 +2,7 @@
 
 [UPDATED MESH TABLE](https://docs.google.com/spreadsheets/d/1Zotd3dWk1r9S9POPxEsP7YpWtsqCOSBSU5d-IUzHssI/edit?usp=sharing)
 
-[MAKHAIRA - TUNING - BED MESH]](https://github.com/Makhaira/Tuning/blob/main/bed_mesh.md)
+[MAKHAIRA - TUNING - BED MESH](https://github.com/Makhaira/Tuning/blob/main/bed_mesh.md)
 ```So many squares...
 
 If you have a bed that is totally flat then skip this part. For the rest of us mortals, read on.
