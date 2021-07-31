@@ -1,4 +1,4 @@
-[MAIN MENU](https://github.com/caseyjeremiason/C2/blob/main/README.md)
+[MAIN MENU](/README.md)
 
 # Extruder Calibration (e-steps)
 Before the first print, make sure that the extruder extrudes the correct amount of material.
