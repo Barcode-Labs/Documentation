@@ -1,6 +1,6 @@
 # CLEARING PEI BUILD PLATES
 
-[MAIN MENU](https://github.com/caseyjeremiason/C2/blob/main/README.md)
+[MAIN MENU](/README.md)
 
  - Remove from printer by peeling upwards
  - Place parts-side-down over a Print Bin
