@@ -6,3 +6,8 @@
 Change the setting highlighted in orange to 0.
 
 ![alt text](/DOCS/IMG/TURN_OFF_DYNAMIC_ACCELERATION_CONTROL.PNG "Turn off Dynamic Acceleration Control in Super Slicer")
+
+- `ACCELEROMETER_QUERY`
+- `MEASURE_AXES_NOISE`
+- `TEST_RESONANCES AXIS=X`
+- `TEST_RESONANCES AXIS=Y`
