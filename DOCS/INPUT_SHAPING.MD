@@ -11,3 +11,10 @@ Change the setting highlighted in orange to 0.
 - `MEASURE_AXES_NOISE`
 - `TEST_RESONANCES AXIS=X`
 - `TEST_RESONANCES AXIS=Y`
+
+
+- PUTTY
+  - `~/klipper/scripts/calibrate_shaper.py /tmp/resonances_x_*.csv -o /tmp/shaper_calibrate_x.png`
+  - `~/klipper/scripts/calibrate_shaper.py /tmp/resonances_y_*.csv -o /tmp/shaper_calibrate_y.png`
+- WINSCP
+  - Retrieve Images
