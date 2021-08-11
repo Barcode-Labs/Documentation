@@ -6,9 +6,10 @@
 ## PROCEDURAL DOCUMENTS
 
 ### MAINTENANCE
- - DAILY STARTUP
+ - [DAILY STARTUP]()
  - [WEEKLY MAINTENANCE](/DOCS/WEEKLY_MAINTENANCE.MD)
  - [CLEARING THE BUILD PLATE](/DOCS/CLEARING_BUILD_PLATE.MD)
+ - 
  
 ### TUNING
 - [EXTRUDER CALIBRATION](/DOCS/EXTRUDER_CALIBRATION.MD)
@@ -32,9 +33,19 @@
 
 ### TROUBLESHOOTING
 - [FIRST LAYER ISSUES]()
+  - Clean that build plate with iso alcohol
+  - Ensure that the tool head is properly secured and doesn't wiggle
+  - Check if that the bed is properly secured
+  - Check that the probe is properly secured
+  - Recheck the Z offset adjustment
 - [OVERHANG ISSUES]()
+- [NOZZLE IS STRIKING INFILL]()
+  - `Printer Settings -> Infill -> Advanced -> Only Retract when Crossing Perimeters`
 
 ### MONETIZATION
 - [CUSTOM PRICING - COST BILLING]()
 - [CUSTOM PRICING - PROFIT BILLING]()
 - [AFFILIATE LINKS]()
+- [DONATION LINK]()
+- [RETAIL ITEMS]()
+- [RESELLING BULK BUYS]()
