@@ -10,4 +10,5 @@
  - Allow prievous build plate to fully cool to room temperature
  - Put on nitrate gloves
  - Most parts will fall away from the print bed from the cooling process, for those that do not remove with a plastic scraper
- - Once all parts are removed from the build plate, wipe it down with isopropyl alcohol and a microfiber towel
+ - Once all parts are removed from the build plate, wipe it down with a microfiber towel
+ - Place the cleared build plate onto the ready-stack
