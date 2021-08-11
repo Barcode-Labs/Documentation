@@ -8,5 +8,7 @@
 
 ### V2.1609
 `Printer Hourly Value = $0.18 = $1500 / 8,320`
+
 `Average Hourly Power Consumption = $0.024 = 0.200kw * $0.12`
+
 `Cost Pricing = Cost of Filament Used + (Print Time * $0.224)`
