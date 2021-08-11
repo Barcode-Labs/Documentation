@@ -1,4 +1,4 @@
-(MAIN MENU)[/README.MD]
+[MAIN MENU](/README.MD)
 
 ## OBJECTIVE
  - Increase the total up-time of the printer
@@ -17,5 +17,5 @@
   - Cleaning gives a convient excuse to inspect the majority of the 3D printer
 
 ### ADDITIONAL RESOURCES
-- (VORON MAINTENANCE)[https://docs.vorondesign.com/maintenance.html]
+- [VORON MAINTENANCE](https://docs.vorondesign.com/maintenance.html)
 - 
