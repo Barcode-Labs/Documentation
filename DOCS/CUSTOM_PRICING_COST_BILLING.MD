@@ -1,10 +1,10 @@
 [MAIN MENU](/README.md)
 
-```Cost Pricing = Cost of Filament Used + (Print Time * (Average Hourly Power Consumption + Printer Hourly Value))
+`Cost Pricing = Cost of Filament Used + (Print Time * (Average Hourly Power Consumption + Printer Hourly Value))`
 
-Printer Hourly Value = Printer Cost / 2 Years of Hours Printed
+`Printer Hourly Value = Printer Cost / 2 Years of Hours Printed`
 
-2 Years of Hours Printed = 80 Hours * 104 Weeks```
+`2 Years of Hours Printed = 80 Hours * 104 Weeks`
 
 ### V2.1609
 `Printer Hourly Value = $0.18 = $1500 / 8,320`
