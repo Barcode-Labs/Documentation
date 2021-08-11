@@ -18,4 +18,3 @@
 
 ### ADDITIONAL RESOURCES
 - [VORON MAINTENANCE](https://docs.vorondesign.com/maintenance.html)
-- 
