@@ -1,4 +1,4 @@
-[MAIN MENU](/README.MD)
+[MAIN MENU](/README.md)
 
 ## OBJECTIVE
  - Increase the total up-time of the printer
