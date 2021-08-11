@@ -18,4 +18,3 @@
 
 ### REFERENCE
 - [Overhang handling suggestions](https://github.com/slic3r/Slic3r/issues/3950)
-- 
