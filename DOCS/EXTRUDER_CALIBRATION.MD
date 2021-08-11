@@ -1,6 +1,9 @@
 [MAIN MENU](/README.md)
 
+## OBJECTIVE
+- Ensure that the extruder is extruding the amount of filament that is requested
 
+## METHODS
 > # Extruder Calibration (e-steps)
 > Before the first print, make sure that the extruder extrudes the correct amount of material.
 > 
@@ -15,3 +18,6 @@
 > - Paste the new value into the configuration file, restart Klipper, and try again. Once the extrusion amount is within 0.5% of the target value (ie, 99.5-100.5mm for a target 100mm of extruded filament), the extruder is calibrated!
 > 
 > Typical rotation_distance values should be around 22.6789511 for Afterburner and Mobius (update gear_ratio to 80:20 for Mobius).
+
+### REFERENCES
+- [Voron Design - Initial Startup Checks](https://docs.vorondesign.com/build/startup/#extruder-calibration-e-steps)
