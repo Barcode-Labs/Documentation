@@ -1,7 +1,7 @@
 [MAIN MENU](/README.md)
 
-`
-# Extruder Calibration (e-steps)
+
+> # Extruder Calibration (e-steps)
 Before the first print, make sure that the extruder extrudes the correct amount of material.
 
 - With the hotend at temperature, make a mark between your roll of filament and your extruder, between 120mm and 150mm away from the entrance to the extruder. Measure the distance from the extrance of the extruder to that mark.
@@ -15,4 +15,4 @@ Note: a higher configuration value means that less filament is being extruded.
 - Paste the new value into the configuration file, restart Klipper, and try again. Once the extrusion amount is within 0.5% of the target value (ie, 99.5-100.5mm for a target 100mm of extruded filament), the extruder is calibrated!
 
 Typical rotation_distance values should be around 22.6789511 for Afterburner and Mobius (update gear_ratio to 80:20 for Mobius).
-`
+>
