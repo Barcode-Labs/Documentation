@@ -1,6 +1,6 @@
 # 3D PRINTER
 ## DISCLAIMER
-- Everything here is a work in progress
+- Everything here is a work in progress and always will be
 - These are my notes to myself; Use at your own risk
 
 ## PROCEDURAL DOCUMENTS
