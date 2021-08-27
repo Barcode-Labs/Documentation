@@ -18,3 +18,6 @@ Change the setting highlighted in orange to 0.
   - `~/klipper/scripts/calibrate_shaper.py /tmp/resonances_y_*.csv -o /tmp/shaper_calibrate_y.png`
 - WINSCP
   - Retrieve Images
+
+
+[Klipper Input Shaper Documentation](https://www.klipper3d.org/Measuring_Resonances.html)
